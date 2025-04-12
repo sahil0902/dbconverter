@@ -12,9 +12,7 @@ A simple, privacy-focused web application to convert SQLite database files (.db,
 
 ## Demo
 
-<video src="https://res.cloudinary.com/dn42qkskw/video/upload/f_auto:video,q_auto/v1/Portfolio/ny3tfpuoqmpdo1tqwbzw" controls width="600">
-  Your browser does not support the video tag. Click <a href="https://res.cloudinary.com/dn42qkskw/video/upload/f_auto:video,q_auto/v1/Portfolio/ny3tfpuoqmpdo1tqwbzw">here</a> to watch the video.
-</video>
+[Watch the Demo Video](https://res.cloudinary.com/dn42qkskw/video/upload/f_auto:video,q_auto/v1/Portfolio/ny3tfpuoqmpdo1tqwbzw)
 
 ## Live Website
 
